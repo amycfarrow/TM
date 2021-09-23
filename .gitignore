@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#Non-project work
+Examples/
+
+#Python files
+.ipynb_checkpoints
+Data/Scripts/GetRedditData.ipynb
