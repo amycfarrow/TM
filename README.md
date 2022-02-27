@@ -1,3 +1,3 @@
 # TopicModels
 
-Topic modeling evaluation and interpretation with thematic analysis, using Python and R
+This repo contains Python code and a PDF for my paper, Professorial Concerns and the COVID-19 Pandemic.
